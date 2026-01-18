@@ -116,14 +116,7 @@ python index_emails.py
 
 ### 3️⃣ Set OpenAI API Key
 
-Before querying, set your OpenAI API key:
-
-```bash
-export OPENAI_API_KEY="your_api_key_here"
-```
-
-(or use a `.env` file if preferred)
-
+Before querying, set your OpenAI API key by doing the change in .env file
 ---
 
 ### 4️⃣ Query Emails
