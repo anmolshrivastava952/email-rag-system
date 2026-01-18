@@ -68,10 +68,6 @@ This model provides an excellent trade-off between **speed, memory usage, and re
 
 We generate embeddings for each email chunk and store them locally for fast retrieval.
 
-### Embedding Model
-
-* **OpenAI Embedding Model** (via OpenAI API)
-
 Why embeddings?
 
 * Enables **semantic search**, not keyword-based search
